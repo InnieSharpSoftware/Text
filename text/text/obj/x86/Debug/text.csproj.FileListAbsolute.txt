@@ -1,0 +1,7 @@
+c:\users\inniesharp\documents\visual studio 2010\Projects\text\text\bin\Debug\text.exe
+c:\users\inniesharp\documents\visual studio 2010\Projects\text\text\bin\Debug\text.pdb
+c:\users\inniesharp\documents\visual studio 2010\Projects\text\text\obj\x86\Debug\text.Form1.resources
+c:\users\inniesharp\documents\visual studio 2010\Projects\text\text\obj\x86\Debug\text.Properties.Resources.resources
+c:\users\inniesharp\documents\visual studio 2010\Projects\text\text\obj\x86\Debug\text.csproj.GenerateResource.Cache
+c:\users\inniesharp\documents\visual studio 2010\Projects\text\text\obj\x86\Debug\text.exe
+c:\users\inniesharp\documents\visual studio 2010\Projects\text\text\obj\x86\Debug\text.pdb
